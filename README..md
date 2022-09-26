@@ -1,1 +1,0 @@
-Yazılım Tasarım Mimarisi Projesi
