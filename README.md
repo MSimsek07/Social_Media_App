@@ -1,6 +1,6 @@
 
 # FİLM SOSYAL MEDYA PROJESİ
-#Takım Üyeleri:
+# Takım Üyeleri:
 * Emirhan Kuru: Back-End Developer,Software Test Specialist
 * Ahmet Yıldız: Full-Stack Developer
 * Muhammet Ali Şimşek:Full-Stack Developer
