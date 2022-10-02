@@ -25,6 +25,8 @@
 * GIT Araştırmaları yapılacak
 * Çevik Yönetim eğitimi alınacak. (SELÇUK)
 
+![meeting-1 (1)](https://user-images.githubusercontent.com/72154925/193455914-0037bf6a-2276-4857-9140-b9a14719b7d2.jpeg)
+
 
 
 
