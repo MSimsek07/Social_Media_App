@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ﻿# Yazılım Tasarım Mimarisi Projesi
 
 ## Sprint-1 : 02.10.2022 – 23.10.2022
@@ -10,4 +10,4 @@
 
 =======
 Yazılım Tasarım Mimarisi Projesi
->>>>>>> parent of c7d410b (güncelleme)
+
