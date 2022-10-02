@@ -1,14 +1,22 @@
 
-﻿# Yazılım Tasarım Mimarisi Projesi
-# Takım Üyeleri:
+# FİLM SOSYAL MEDYA PROJESİ
+#Takım Üyeleri:
 * Emirhan Kuru: Back-End Developer,Software Test Specialist
 * Ahmet Yıldız: Full-Stack Developer
 * Muhammet Ali Şimşek:Full-Stack Developer
 * Müşerref Selçuk Özdemir:Scrum Master , Business Analyst
-## Sprint-1: 02.10.2022 – 23.10.2022
+
+# Ürün İsmi:
+1001Film
+
+# Hedef Kitle:
+
+# Ürün Tanımı:
+
+# Sprint-1: 02.10.2022 – 23.10.2022
 
 
-### Toplantı-1: 02.10.2022
+## Toplantı-1: 02.10.2022
 
 * Giriş ve Kayıt Ol Ekranı Ön Tasarımı Yapılacak (MUHAMMET + AHMET)
 * Giriş ve Kayıt Ol Ekranı için gereksinimler tanımlanacak (SELÇUK)
