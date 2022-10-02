@@ -1,4 +1,4 @@
-﻿Yazılım Tasarım Mimarisi Projesi
+﻿#Yazılım Tasarım Mimarisi Projesi
 
 Sprint-1 : 02.10.2022 – 23.10.2022
 • Giriş ve Kayıt Ol Ekranı Ön Tasarımı Yapılacak
