@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Yazılım Tasarım Mimarisi Projesi
 
 ## Sprint-1 : 02.10.2022 – 23.10.2022
@@ -7,3 +8,6 @@
 * Sosyal medya uygulaması için sektör taraması yapılacak
 * Yapılan taramalar Trello uygulamasında “KAYNAKLAR” bölümüne eklenecek. 			
 
+=======
+Yazılım Tasarım Mimarisi Projesi
+>>>>>>> parent of c7d410b (güncelleme)
