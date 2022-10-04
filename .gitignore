@@ -1,4 +1,0 @@
-figures/*.pdf
-figures/*.pdf_t
-!figures/keep-in-source-control.pdf
-!figures/manually-created.pdf
