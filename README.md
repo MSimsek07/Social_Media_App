@@ -9,21 +9,27 @@
 # Ürün İsmi:
 1001Film
 
+# Hedef:
+Son zamanlarda gelişen salgın ve evden çalışma modelleri ile birlikte insanlar evlerinde daha fazla vakit geçirmektedir. Evlerde yapılacak hem ailevi hem de bireysel en keyifli işlerden biri film izlemektir. İnsanlar film hakkında konuşmaktan , olay örgüsü hakkında yorum yapmaktan, alıntıları tekrarlamaktan, kıyıda köşede kalmış film hakkında ilginç bilgilerden hoşlanmaktadır. Bunlar artık hayatın içinden olmuştur. Hedefimiz insanların film hakkında konuşabildikleri ve yorumlarda bulunabildikleri bir sosyal ortam oluşturmaktır. 
+
+Diğer sosyal medya uygulamaları her ne kadar insanlara sosyalleşmeyi vaad etse de toksik kitlelerden ve gönderilerden kurtulamamaıştır. Buna en büyük örnek bilinen büyük sosyal medyalardır. LinkedIn ve 1000Kitap gibi uygulamalar ile sırasıyla iş ve kitapseverlere odaknaılmıştır. Bu ilhamdan yola çıkarak filmler hakkında konuşulan bir sosyal medya ortamı oluşturacaktır. 
+
+# Vizyon:
+Her insanın "Ölmeden Önce İzlenmesi Gereken 1001 Film" listesindeki filmleri izlemesini temin etmek.
+
+# Misyon:
+İnsanlar ve filmler arasında bir köprü kurarak aradaki popüleriteden ziyade insanların kendi gibi diğer insanlardan faydalanarak hangi filmleri izleyeceğini karar vermek. Filmlerin insanları yönlendirmesinden ziyade insanların filmleri yönlendirmesini sağlamak. 
+
 # Hedef Kitle:
+Her ne kadar 18-25 arasındaki gençeleri odak noktası alsakta amacımız tüm insanlara faydalı olabilmektir. 
 
 # Ürün Tanımı:
+Ürün insanlara bir sosyal medya ortamı sunacaktır. 
 
-# Sprint-1: 02.10.2022 – 23.10.2022
+#Sprint Başlatma Toplantısı:
+#Sprint Retrospective Toplantısı
 
-
-## Toplantı-1: 02.10.2022
-
-* Giriş ve Kayıt Ol Ekranı Ön Tasarımı Yapılacak (MUHAMMET + AHMET)
-* Giriş ve Kayıt Ol Ekranı için gereksinimler tanımlanacak (SELÇUK)
-* Sosyal medya uygulaması için sektör taraması yapılacak.
-* Yapılan taramalar Trello uygulamasında “KAYNAKLAR” bölümüne eklenecek. 		
-* GIT Araştırmaları yapılacak
-* Çevik Yönetim eğitimi alınacak. (SELÇUK)
+alev.kaya@firat.edu.tr
 
 ![meeting-1 (1)](https://user-images.githubusercontent.com/72154925/193455914-0037bf6a-2276-4857-9140-b9a14719b7d2.jpeg)
 
