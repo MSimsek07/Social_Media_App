@@ -31,7 +31,10 @@ Her ne kadar 18-25 arasındaki gençeleri odak noktası alsakta amacımız tüm 
 
 alev.kaya@firat.edu.tr
 
+![meeting-1 (1)](https://user-images.githubusercontent.com/72154925/193455914-0037bf6a-2276-4857-9140-b9a14719b7d2.jpeg)
 
+
+![meeting-1 (2)](https://user-images.githubusercontent.com/72154925/193456022-7a004648-461f-4397-9523-47c8d2767809.jpeg)
 
 
 
