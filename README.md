@@ -29,7 +29,7 @@ Her ne kadar 18-25 arasındaki gençeleri odak noktası alsakta amacımız tüm 
 #Sprint Başlatma Toplantısı:
 #Sprint Retrospective Toplantısı
 
-
+alev.kaya@firat.edu.tr
 
 
 
