@@ -24,10 +24,10 @@ Her insanın "Ölmeden Önce İzlenmesi Gereken 1001 Film" listesindeki filmleri
 Her ne kadar 18-25 arasındaki gençeleri odak noktası alsakta amacımız tüm insanlara faydalı olabilmektir. 
 
 # Kullanılacak Teknolojiler:
-Back-End: Node.js
-Front-End: React
-UML Çizim : Microsoft Visio 16
-Veritabanı : MongoDB
+* Back-End: Node.js
+* Front-End: React
+* UML Çizim : Microsoft Visio 16
+* Veritabanı : MongoDB
 
 # Ürün Tanımı:
 Ürün insanlara bir sosyal medya ortamı sunacaktır. 
