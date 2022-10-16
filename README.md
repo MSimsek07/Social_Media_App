@@ -26,15 +26,24 @@ Her ne kadar 18-25 arasındaki gençeleri odak noktası alsakta amacımız tüm 
 # Ürün Tanımı:
 Ürün insanlara bir sosyal medya ortamı sunacaktır. 
 
+# LOGO:
+
+![WhatsApp Image 2022-10-16 at 14 41 06](https://user-images.githubusercontent.com/72154925/196052685-5c4df404-a654-4e77-96e5-c42383f4e3c2.jpeg)
+
+## 4 Mesaj:
+* Mesaj balonu ile sosyal medya simgeleniyor
+* Kamera ile filmler simgeleniyor
+* 1001 yazısı ile motto simgeleniyor
+* 1001 yazısının içerisindeki 00 ile seyirci simgeleniyor
+
 #Sprint Başlatma Toplantısı:
+## Konuşulan Konular:
+## Kararlaştırlan Meseleler
+
+# Sprint-1 (EĞİTİM)
+
 #Sprint Retrospective Toplantısı
 
-alev.kaya@firat.edu.tr
-
-![meeting-1 (1)](https://user-images.githubusercontent.com/72154925/193455914-0037bf6a-2276-4857-9140-b9a14719b7d2.jpeg)
-
-
-![meeting-1 (2)](https://user-images.githubusercontent.com/72154925/193456022-7a004648-461f-4397-9523-47c8d2767809.jpeg)
 
 
 
