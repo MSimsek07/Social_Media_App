@@ -36,13 +36,13 @@ Her ne kadar 18-25 arasındaki gençeleri odak noktası alsakta amacımız tüm 
 * 1001 yazısı ile motto simgeleniyor
 * 1001 yazısının içerisindeki 00 ile seyirci simgeleniyor
 
-#Sprint Başlatma Toplantısı:
+# Sprint Başlatma Toplantısı:
 ## Konuşulan Konular:
 ## Kararlaştırlan Meseleler
 
 # Sprint-1 (EĞİTİM)
 
-#Sprint Retrospective Toplantısı
+## Sprint Retrospective Toplantısı
 
 
 
