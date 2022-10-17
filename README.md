@@ -41,8 +41,19 @@ Her ne kadar 18-25 arasındaki gençeleri odak noktası alsakta amacımız tüm 
 ## Kararlaştırlan Meseleler
 
 # Sprint-1 (EĞİTİM)
+* Çeşitli konularda eğitim alınacak.
+* Node.js hakkında eğitim alınacak.
+* React hakkında eğitim alınacak.
+* MongoDB hakkında eğitim alınacak.
+* UML için VİSİO eğitimi alınacak.
+* Proje Yönetimi eğitimi alınacak.
+* Git ve Github eğitimi alınacak.
+* Uygulamanın ismi belirlenecek.
+* Uygulama logosu belirlenecek.
 
 ## Sprint Retrospective Toplantısı
+### Sonuç:
+Yapılan planlamalar doğrultusundan ekip üyeleri çeşitli konularda eğitimler aldı. Eğitimler herkesin kendi alanını kapsayacak şekilde ayarlandı. UYgulamanın
 
 
 
